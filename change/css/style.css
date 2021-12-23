@@ -1,0 +1,24 @@
+.app1{
+	font-size: 20px;
+	position: absolute;
+	top: 10%;
+	left: 25%;
+}
+.app2{
+	font-size: 20px;
+	position: absolute;
+	top: 10%;
+	right: 25%;
+}
+.app3{
+	font-size: 20px;
+	position: absolute;
+	top: 50%;
+	right:25%;
+}
+.app4{
+	font-size: 20px;
+	position: absolute;
+	top: 50%;
+	left: 25%;
+}
